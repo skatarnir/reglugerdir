@@ -4,6 +4,7 @@ Samþykkt á stjórnarfundi BÍS, 21. apríl 2018.
 
 ### 1. grein
 Með skátaforingja er í reglugerð þessari átt við þann lögráða einstakling sem hefur verið skipaður til ábyrgðastarfa af hálfu félagsforingja, formanns skátasambands eða skátahöfðingja.
+
 Reglugerð þessi nær ekki til flokksforingja og annarra aðstoðarforingja sem ekki eru lögráða.
 
 ### 2. grein
