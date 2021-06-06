@@ -1,31 +1,27 @@
 # Reglugerð BÍS um hæfi skátaforingja
 
-Samþykkt á stjórnarfundi BÍS, 21. apríl 2018.
+Samþykkt á stjórnarfundi BÍS, 6. júní 2021.
 
 ### 1. grein
-Með skátaforingja er í reglugerð þessari átt við þann lögráða einstakling sem hefur verið skipaður til ábyrgðastarfa af hálfu félagsforingja, formanns skátasambands eða skátahöfðingja.
+Með skátaforingja er í reglugerð þessari átt við lögráða skáta sem hafa verið skipuð til ábyrgðar á skátasveit barna af hálfu skátafélags, skátasambands eða Bandalags íslenskra skáta (BÍS).
 
-Reglugerð þessi nær ekki til flokksforingja og annarra aðstoðarforingja sem ekki eru lögráða.
+Reglugerð þessi nær ekki til flokksforingja eða annarra aðstoðarforingja sem ekki eru lögráða.
 
 ### 2. grein
-Þann má skipa skátaforingja sem æskir þess og fullnægir þessum skilyrðum:
-1. er vígður skáti.
-2. er lögráða og svo á sig kominn andlega að hann sé fær um að gegna störfum skátaforingja.
-3. hefur forræði á búi sínu og hefur ekki orðið að sæta því að bú hans sé tekið til gjaldþrotaskipta s.l. 2 ár.
-4. er ekki á sakaskrá.
-5. hefur lokið viðeigandi þjálfun til að gegna starfi sínu að mati skipunaraðila.
+Þau má skipa skátaforingja sem sækjast eftir því og fullnægja þessum skilyrðum:
+
+1. Eru vígð skátar.
+2. Hafa viðeigandi þjálfun, menntun, þekkingu eða reynslu til að gegna starfi sínu að mati skipunaraðila.
+3. Hafa unnið [skriflegt heiti að viðlögðum heiðri sínum](https://skatarnir.is/wp-content/uploads/Sæmdarheit-skátaforingja.pdf) að rækja af trúmennsku og samviskusemi öll þau störf sem þeim kunna að verða falin eða þau taka að sér sem skátaforingjar og að þau muni aldrei gerast brotleg gegn börnum.
+4. Hafa ekki hlotið refsidóm vegna brota á ákvæðum XXII. kafla almennra hegningarlaga nr. 19/1940 eða vegna brota gegn lögum um ávana- og fíkniefni, nr. 65/1974, á síðastliðnum fimm árum. Eins og [Æskulýðslög nr. 70/2007](https://www.althingi.is/lagas/nuna/2007070.html) segja til um.
+5. Hafa undirritað [eyðublað sem veitir Bandalagi íslenskra skáta heimild til öflunar upplýsinga úr Sakaskrá ríkisins](https://skatarnir.is/wp-content/uploads/Sakaskrárheimild-eyðublað.pdf) eins og [Æskulýðslög nr. 70/2007](https://www.althingi.is/lagas/nuna/2007070.html) segja til um.
 
 Hefur unnið skriflegt heiti að viðlögðum drengskap að hann muni rækja af trúmennsku og samviskusemi öll þau störf sem honum kunna að verða falin og hann tekur að sér sem skátaforingi og að hann hafi aldrei gerst brotlegur gegn börnum.
 
 ### 3. grein
-Umsókn um leyfi til að gerast skátaforingi skal beint til viðkomandi félagsstjórnar eða skátasambands.
+Umsókn um leyfi til að gerast skátaforingi í skátastarfi skal beint til viðkomandi félagsstjórnar eða skátasambands. Sé hvorugt starfandi á svæðinu skal umsókn beint til BÍS.
 
-Umsókn um leyfi til að gerast félagsforingi, formaður skátasambands eða að starfa fyrir BÍS skal beint til stjórnar BÍS. Eftir því sem þörf er á skal umsækjandi leggja fram gögn til stuðnings því að hann fullnægi skilyrðum skv. 2. Gr.
-
-Félagsforingi eða formaður skátasambands gefur út skipunarbréf fyrir skátaforingja. Skátahöfðingi gefur út skipunarbréf fyrir félagsforingja, formenn skátasambanda og aðra skátaforingja er starfa fyrir BÍS.
+Stjórnir skátafélaga skulu leitast við að gera skriflegt samkomulag við skátaforingja í samræmi við drög BÍS um Sjálfboðaliðasamkomulag.
 
 ### 4. grein
-Ef skátaforingi uppfyllir ekki öll skilyrði 2. gr. eftir að hafa hlotið skipun eða brýtur gegn drengskaparheiti sínu, skal hann að eigin frumkvæði skila inn skipunarbréfi sínu ella er félagsforingja, formanni skátasambands og/eða stjórn BÍS skylt að afturkalla skipunarbréf hans.
-
-### 5. grein
-Stjórn BÍS er heimilt að veita undanþágur frá ákvæðum 1. – 4 tl. 2. gr. við skipun skátaforingja, ef ríkar ástæður eru fyrir hendi.
+Ef skátaforingi uppfyllir ekki öll skilyrði 2. gr. eftir að hafa hlotið skipun eða brýtur gegn sæmdarheiti sínu, skal viðkomandi láta af störfum að eigin frumkvæði ella er stjórn skátafélags, stjórn skátasambands og/eða stjórn BÍS skylt að víkja viðkomandi frá störfum.
